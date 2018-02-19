@@ -1,7 +1,8 @@
 # UTYR
 X-ray/Ultrasound Examination software
 
-Operating system: MS-DOS
+Operating system: MS-DOS 
+
 Project status: Abondend
 
 Technical buzzwords:
