@@ -1,0 +1,69 @@
+!short: 00001 O~k                      //~Patvirtinti
+!short: 00002 ~Cancel                  //~Atsisakyti
+!short: 00003 Desktop                  //Administratorius
+!short: 00004 Files read system        //Tyrim÷ nuskaitymo sistema
+!short: 00005 File name                //Tyrimo numeris:
+!short: 00006 Directories              //Katalog÷ vardai:
+!short: 00007 Drivies                  //Diskai:
+!short: 00008 Files write system       //Byl÷ ‘ra’ymo sistema
+!short: 00009 Warning                  //Pesp”jimas
+!short: 00010 Out of memory            //Tr◊ksta operatyvin”s atminties
+!short: 00011 Help                     //Pagalba
+!short: 00012 Icon                     //Piktogramos
+!short: 00013 Finish work ?            //Baigti darb– ?
+!short: 00014 Question                 //Uÿklausa
+!short: 00015 Can't format name of file//Negaliu suformuoti bylos vardo
+!short: 00016 ~Yes                     //~Taip
+!short: 00017 ~No                      //~Ne
+
+!short: 10001 Mouse                    //Pel”
+!short: 10002 E~xamination             //~Ivesti vaizda
+!short: 10003 ~Inspection              //Analizes ~reÿimas
+!short: 10004 ~End                     //~Pabaiga
+!short: 10005 ~Review                  //Vaizdu ~analize
+!short: 10006 ~Load new picture        //~Nuskaityti nauj– vaizd–
+!short: 10007 ~Save                    //~Ωra’yti analizuot– vaizd–
+!short: 10008 Cut ~fragment            //I’si~kirpti fragment–
+!short: 10009 ~Rectangle fragment      //~Sta—iakampio formos
+!short: 10010 ~Circle fragment         //~Apskritimo formos
+!short: 10011 ~Ellipsis fragment       //~Elips”s formos
+!short: 10012 ~Irregular fragment      //~Nereguliarios formos
+!short: 10013 ~Delete fragment         //Pa~naikinti fragment–
+!short: 10014 ~Zoom                    //~Didinti vaizd–
+!short: 10015 ~Histograma              //~Histograma
+!short: 10016 ~Filters                 //~Filtrai
+!short: 10017 Laplass 1// negalima aktyvuoti numeriais nes fragmento nr sutaps su filtro nr.
+!short: 10018 Laplass 2
+!short: 10019 Laplass 3
+!short: 10020 Laplass 4
+!short: 10021 Volume                  //T◊ris
+!short: 10022 Volume/Volume           //T◊ris/T◊ris
+!short: 10023 Dist./Dist.             //Atst./Atst.
+!short: 10024 Calibration             //Kalibravimas
+!short: 10025 Calculator// pavadinimas//Kalkuliatorius
+!short: 10026 cm//centimetrai         //cm
+!short: 10027 ~Calculator             //Ka~lkuliatorius// menu item
+!short: 10028 Range                   //Mastelis :
+!short: 10029 Scale                   //Skal” :
+!short: 10030 Net                     //Tinklelis
+!short: 10031 Grid                    //Koord. a’ys
+!short: 10032 Area                    //Plotas
+!short: 10033 Angle :                 //Kampas :
+!short: 10034 Median 1x3
+!short: 10035 Median 3x1
+!short: 10036 Median 3x3
+!short: 10037 Median 5x5
+!short: 10038 Median Cross
+!short: 10039 12 ~Pictures                       //12 ~Vaizdu// menu item
+!short: 10040 The patient picture are saved Nr.  //Paciento vaizdai saugomi tyrimo eil. Nr.
+!short: 10041 X-ray/Ultrasound Examination       //Rentgeno / ultragarsinis tyrimas
+!short: 10042 ~Next picture                      //Tesiamas
+!short: 10043 ~End                               //Baigtasi
+!short: 10044 Summary of examine                 //Pacientui atliktu tyrimu skaicius
+!short: 10045 Examination is saved //as          //Paciento tyrimai saugomi
+!short: 10046 ~Clear window// No                 //N~aikinti vaizdus// ne istrinti
+!short: 10047 12 Pictures                        //12 vaizdu// pavadinimas
+!short: 10048 ~Fine    640*480                   //~Detalus   640*480
+!short: 10049 ~Middle  800*600                   //~Vidutinis 800*600
+!short: 10050 ~Coarse 1024*768                   //~Grubus   1024*768
+!short: 10051 ~Filter H                          //Histograminis pr.

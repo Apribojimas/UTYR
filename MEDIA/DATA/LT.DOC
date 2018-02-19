@@ -1,0 +1,136 @@
+!short: 00001 ~Patvirtinti                    //O~k                      
+!short: 00002 ~Atsisakyti                     //~Cancel                  
+!short: 00003 Administratorius                //Desktop                  
+!short: 00004 Tyrim÷ nuskaitymo sistema       //Files read system        
+!short: 00005 Tyrimo numeris:                 //File name                
+!short: 00006 Katalog÷ vardai:                //Directories              
+!short: 00007 Diskai:                         //Drivies                  
+!short: 00008 Byl÷ ‘ra’ymo sistema            //Files write system       
+!short: 00009 Pesp”jimas                      //Warning                  
+!short: 00010 Tr◊ksta operatyvin”s atminties !//Out of memory            
+!short: 00011 Pagalba                         //Help                     
+!short: 00012 Piktogramos                     //Icon                     
+!short: 00013 Baigti darb– ?                  //Finish work ?            
+!short: 00014 Uÿklausa                        //Question                 
+!short: 00015 Negaliu suformuoti bylos vardo !//Can't format name of file
+!short: 00016 ~Taip                           //~Yes                     
+!short: 00017 ~Ne                             //~No                      
+
+!short: 10001 Pel”                           //Mouse                    
+!short: 10002 Ωvesti ~vaizd–                 //E~xamination             
+!short: 10003 Analiz”s ~reÿimas              //~Inspection              
+!short: 10004 ~Pabaiga                       //~End                     
+!short: 10005 Vaizd÷ ~analiz”                //~Review                  
+!short: 10006 ~Nuskaityti vaizd–             //~Load new picture        
+!short: 10007 ~Ωra’yti vaizd–                //~Save                    
+!short: 10008 I’si~kirpti fragment–        //Cut ~fragment            
+!short: 10009 ~Sta—iakampio formos           //~Rectangle fragment      
+!short: 10010 ~Apskritimo formos             //~Circle fragment         
+!short: 10011 ~Elips”s formos                //~Ellipsis fragment       
+!short: 10012 ~Nereguliarios formos          //~Irregular fragment      
+!short: 10013 Pa~naikinti fragment–          //~Delete fragment         
+!short: 10014 ~Didinti vaizd–                //~Zoom                    
+!short: 10015 ~Histograma                    //~Histograma              
+!short: 10016 ~Filtrai                      //~Filters
+!short: 10017 Usual-cross            // negalima aktyvuoti numeriais nes fragmento nr sutaps su filtro nr.
+!short: 10018 Diagonal-cross
+!short: 10019 Classical
+!short: 10020 Weighted
+!short: 10021 T◊ris                      //Volume
+!short: 10022 T◊ris/T◊ris                //Volume/Volume
+!short: 10023 Atst./Atst.                //Dist./Dist.
+!short: 10024 Kalibravimas               //Calibration
+!short: 10025 Kalkuliatorius             //Calculator// pavadinimas
+!short: 10026 cm                         //cm//centimetrai
+!short: 10027 Ka~lkuliatorius// menu item//~Calculator
+!short: 10028 Mastelis :                 //Range
+!short: 10029 Skal” :                    //Scale
+!short: 10030 Tinklelis                  //Net
+!short: 10031 Koord. a’ys                //Grid
+!short: 10032 Plotas                     //Area
+!short: 10033 Kampas :                   //Angle :
+!short: 10034 Median 1x3
+!short: 10035 Median 3x1
+!short: 10036 Median 3x3
+!short: 10037 Median 5x5
+!short: 10038 Median Cross
+!short: 10039 ~12 Vaizd÷// menu item                    //12 ~Pictures
+!short: 10040 Paciento tyrimo vaizdai saugomi su nr.       :   //The patient picture are saved Nr.
+!short: 10041 Rentgeno / ultragarsinis tyrimas          //X-ray/Ultrasound Examination
+!short: 10042 ~T“siamas                                 //~Next picture
+!short: 10043 ~Baigtas                                  //~End
+!short: 10044 Pacientui atlikt÷ tyrim÷ skai—ius            :   //Summary of examine
+!short: 10045 Paciento tyrimai bus saugomi              //Examination is saved //as
+!short: 10046 N~aikinti vaizdus// ne istrinti           //~Clear window// No
+!short: 10047 12 vaizd÷// pavadinimas                   //12 Pictures
+!short: 10048 ~Detalus   640*480                        //~Fine    640*480
+!short: 10049 ~Vidutinis 800*600                        //~Middle  800*600                 
+!short: 10050 ~Grubus   1024*768                        //~Coarse 1024*768                 
+!short: 10051 ~Histograminis pr.                         //~Filter H
+!short: 10052 Histograma
+!short: 10053 Intensyvumas                              //Intensity
+!short: 10054 Fragm.dydis =                             //Fragm.area
+!short: 10055 Vidurkis =                                //Aver.
+!short: 10056 Sigma =
+!short: 10057 Imax =
+!short: 10058 Pikas =                                  //Peak
+!short: 10059 ~Inversija
+!short: 10060 Klaida irasant vaizda
+!short: 10061 Klaida nuskaitant vaizda
+!short: 10062 Fronto~grama 				// menu punktas
+!short: 10063 Frontograma				// pavadinimas
+!short: 10064 Viena
+!short: 10065 Trys
+!short: 10066 Penkios
+!short: 10067 Septynios
+!short: 10068 Devynios
+!short: 10069 Vienuolika
+!short: 10070 ~Laplass          
+!short: 10071 ~Median           
+!short: 10072 ~Average          
+!short: 10073 High ~Pass        
+!short: 10074 ~Gradient         
+!short: 10075 Cross    3X3
+!short: 10076 Diagonal 3X3
+!short: 10077 Weighted 7X7
+!short: 10078 Classical
+!short: 10079 Weighted
+!short: 10080 Cross
+!short: 10081 Gradient 1
+!short: 10082 Gradient 2
+!short: 10083 Gradient 3
+!short: 10084 Gradient 4
+!short: 10085 Gradient 5
+!short: 10086 Gradient 6
+!short: 10087 Gradient 7
+!short: 10088 Gradient 8
+!short: 10091 Kiek procentu nupjausime histogramos ?
+!short: 10092 Histogramos modefikacija
+!short: 10093 ~Edge detection   
+!short: 10094 Max
+!short: 10095 Min
+!short: 10096 Boundary
+!short: 10097 Wrongs
+!short: 10098 Histogramos prapletimas
+!short: 10099 Histogramos modefikacija
+!short: 10100 ~Roberts          
+!short: 10101 Square-Root
+!short: 10102 Max-of-ABS
+!short: 10103 Sum-of-ABS
+!short: 10104 Histo-Redu~ce
+!short: 10105 Spalvu sumazinimas pagal histograma
+!short: 10106 Kiek paliksime spalvu ?
+!short: 10107 Nustatykite spalvu ribas
+!short: 10108 Histogramos krastu nukirpimas
+!short: 10109 Binerizavimas
+!short: 10110 Ties kuria spalva nustatysim riba ?
+!short: 10111 Clasic   15X15
+!short: 10112 Clasic   7X7
+!short: 10113 Weighted 15X15
+
+// HARIO
+!short: 10500 Pa~cientas
+!short: 10501 Pacientas
+!short: 10502 %s %s, %s met÷                           // vardas pavarde, metai  
+!short: 10503 Tyrimo data : %s                         // data  
+!short: 10504 Tyrimo numeris : %d                      //

@@ -1,0 +1,26 @@
+#ifndef _GPOINT
+#define _GPOINT
+
+#include "object.hpp"
+#include "define.hpp"
+
+class GPoint : public Object
+{
+protected:
+ int X;
+ int Y;
+public:
+ ~GPoint();
+  GPoint(int x = 0,int y = 0);
+
+  int GetX(void);
+  int GetY(void);
+  void SetX(int x);
+  void SetY(int y);
+  void SetXY(int x,int y);
+  virtual void Show(void);
+  virtual void Hide(void);
+// reikalinga Object
+  virtual ClassType isA();
+};
+#endif

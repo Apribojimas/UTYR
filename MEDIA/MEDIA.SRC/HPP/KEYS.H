@@ -1,0 +1,61 @@
+#define RSHIFT        0x01  // shiftkey status
+#define LSHIFT        0x02
+#define CTRL          0x04
+#define ALT           0x08
+
+// Klavisai
+
+#define SPACE         32
+#define BS            8
+#define TAB           9
+#define FORMFEED      12
+#define CR            13
+#define ESC           27
+#define HOME          327
+#define END           335
+#define UP            328
+#define DOWN          336
+#define PGUP          329
+#define PGDN          337
+#define LEFT          331
+#define INS           338
+#define RIGHT         333
+#define DEL           339
+#define F1            315
+#define F2            316
+#define F3            317
+#define F4            318
+#define F5            319
+#define F6            320
+#define F7            321
+#define F8            322
+#define F9            323
+#define F10           324
+#define F11           325
+#define F12           390
+
+#define SHIFT_LEFT    843
+#define SHIFT_RIGHT   845
+#define SHIFT_UP      840
+#define SHIFT_DOWN    848
+#define SHIFT_TAB     783
+#define ALT_BS        2318
+#define ALT_X         2349
+#define ALT_I	      2327
+#define ALT_R         2323
+#define ALT_M	      2354
+#define ALT_P         2329
+#define ALT_F3        2410
+#define ALT_F5	      2412
+#define ALT_F12       2444
+#define CTRL_F5       1378
+#define CTRL_F10      1383
+#define CTRL_LEFT     1395
+#define CTRL_RIGHT    1396
+#define CTRL_HOME     1399
+#define CTRL_END      1397
+#define CTRL_PGUP     1412
+#define CTRL_PGDN     1498
+#define KEY_MODE_640  2343
+#define KEY_MODE_800  2344
+#define KEY_MODE_1024 2347
